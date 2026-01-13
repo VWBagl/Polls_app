@@ -1,0 +1,10 @@
+db.sqlite3
+
+# Папки кэша 
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+venv/
+env/
